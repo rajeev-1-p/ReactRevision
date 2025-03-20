@@ -14,7 +14,7 @@ function App() {
         </button>
         <button className="p-2 bg-green-500 text-white rounded" onClick={() => setColor("green")}>
           Green
-        </button> 
+        </button>  
       </div>
     </div>
   );
